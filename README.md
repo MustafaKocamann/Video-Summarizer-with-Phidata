@@ -365,7 +365,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 - 🐙 **GitHub:** [@MustafaKocamann](https://github.com/MustafaKocamann)
 - 💼 **LinkedIn:** [Mustafa Kocaman](https://linkedin.com/in/mustafa-kocaman)
-- 📧 **Email:** [mustafakocaman@email.com](mailto:mustafakocaman@email.com)
+- 📧 **Email:** [mustafakocaman@email.com](mailto:mustafakocaman789@gmail.com)
 
 ---
 
